@@ -123,7 +123,7 @@ function HomePage() {
                 className="register-button"
                 onClick={() => navigate("/current-event")}
               >
-                Cognition 3.0 <span className="arrow-right">&#x2192;</span>
+                Logic Maze <span className="arrow-right">&#x2192;</span>
               </button>
 
               <button className="see-button">
@@ -150,7 +150,7 @@ function HomePage() {
                 className="register-button"
                 onClick={() => navigate("/current-event")}
               >
-                COGNITION 3.0<span className="arrow-right">&#x2192;</span>
+                Logic Maze<span className="arrow-right">&#x2192;</span>
               </button>
               {/* </Link> */}
               <AnchorLink href="#about" className="seemore">
